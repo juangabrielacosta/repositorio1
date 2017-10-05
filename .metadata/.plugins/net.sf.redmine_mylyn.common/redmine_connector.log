@@ -1,0 +1,12 @@
+2017-10-04 18:18:05,651 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /redmine/mylyn/version
+2017-10-04 18:18:05,903 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS juangabriel
+2017-10-04 18:20:06,889 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /redmine/mylyn/version
+2017-10-04 18:20:07,066 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS juangabriel
+2017-10-04 18:20:15,470 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /redmine/mylyn/issuestatus
+2017-10-04 18:20:15,542 ERROR n.s.r.i.a.c.AbstractClient Unexpected status code - 404
+2017-10-04 18:20:19,335 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /redmine/mylyn/issuestatus
+2017-10-04 18:20:19,418 ERROR n.s.r.i.a.c.AbstractClient Unexpected status code - 404
+2017-10-04 18:20:34,959 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /redmine/mylyn/version
+2017-10-04 18:20:35,038 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS juangabriel
+2017-10-04 18:22:44,669 DEBUG n.s.r.i.a.c.AbstractClient Execute HTTP GET-Method /redmine/mylyn/version
+2017-10-04 18:22:44,746 DEBUG n.s.r.i.a.p.JaxbParser AUTHENTICATED AS juangabriel

@@ -1,0 +1,23 @@
+src/Biblioteca.java:2:	Comment is too large: Too many lines
+src/Biblioteca.java:64:	Comment is too large: Line too long
+src/Biblioteca.java:71:	Comment is too large: Line too long
+src/Biblioteca.java:78:	Comment is too large: Line too long
+src/Biblioteca.java:101:	Comment is too large: Too many lines
+src/Biblioteca.java:117:	Comment is too large: Line too long
+src/Biblioteca.java:192:	Comment is too large: Line too long
+src/Docente.java:2:	Comment is too large: Too many lines
+src/Docente.java:35:	Comment is too large: Line too long
+src/Estudiante.java:4:	Comment is too large: Line too long
+src/Estudiante.java:34:	Comment is too large: Line too long
+src/Estudiante.java:35:	Comment is too large: Line too long
+src/GestionBiblioteca.java:3:	Comment is too large: Line too long
+src/GestionBiblioteca.java:8:	The class 'GestionBiblioteca' has a Cyclomatic Complexity of 52 (Highest = 51).
+src/GestionBiblioteca.java:10:	Avoid really long methods.
+src/GestionBiblioteca.java:10:	The method 'main' has a Cyclomatic Complexity of 51.
+src/Libro.java:2:	Comment is too large: Too many lines
+src/Prestamo.java:58:	Comment is too large: Line too long
+src/Prestamo.java:71:	Comment is too large: Line too long
+src/Socio.java:2:	Comment is too large: Too many lines
+src/Socio.java:4:	Comment is too large: Line too long
+src/Socio.java:92:	Comment is too large: Line too long
+src/Socio.java:109:	Comment is too large: Line too long
